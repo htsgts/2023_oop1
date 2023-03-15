@@ -5,7 +5,10 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    /// 헬로우 월드 출력
+
+    printf("12\n");
+
     return 0;
 }
 
